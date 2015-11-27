@@ -48,4 +48,5 @@ Then use the `validate`-method:
 ```
 
 It will look like this:
+
 ![Command Line Example](http://static-content.webman.io/github.com/larapack/command-validation/command-line.png)
