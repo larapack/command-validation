@@ -1,5 +1,5 @@
 {
-    "name": "command-validation",
+    "name": "larapack/command-validation",
     "description": "Enable a method for Artisan Commands to validate the output of methods like `ask`.",
     "keywords": ["package", "laravel", "larapack", "artisan", "command", "validate", "validation"],
     "license": "MIT",
