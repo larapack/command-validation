@@ -1,0 +1,12 @@
+{
+    "name": "command-validation",
+    "description": "Enable a method for Artisan Commands to validate the output of methods like `ask`.",
+    "keywords": ["package", "laravel", "larapack", "artisan", "command", "validate", "validation"],
+    "license": "MIT",
+    "type": "package",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
