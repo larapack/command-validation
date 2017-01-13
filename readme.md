@@ -1,9 +1,9 @@
-# command-validation
+# Laravel Command Validation
 Enable a method for Artisan Commands to validate the output of methods like `ask`.
 
 ## Installing
 
-Install using Composer `composer require larapack/command-validation 1.*`.
+Install using composer `composer require larapack/command-validation 1.*`.
 
 ## Usage
 
@@ -49,4 +49,4 @@ Then use the `validate`-method:
 
 It will look like this:
 
-![Command Line Example](http://static-content.webman.io/github.com/larapack/command-validation/command-line.png)
+![Command Line Example](https://raw.githubusercontent.com/larapack/command-validation/master/resources/command-line-example.png)
