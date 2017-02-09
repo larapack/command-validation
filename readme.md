@@ -3,7 +3,7 @@ Enable a method for Artisan Commands to validate the output of methods like `ask
 
 ## Installing
 
-Install using composer `composer require larapack/command-validation 1.*`.
+Install using composer `composer require "larapack/command-validation 1.*"`.
 
 ## Usage
 
@@ -14,7 +14,7 @@ First add the trait `Validateable` to your Artisan Command.
 namespace App\Console\Commands;
 
 use Illuminate\Console\Command;
-use Larapack/CommandValidation/Validateable;
+use Larapack\CommandValidation\Validateable;
 
 class ExampleCommand extends Command
 {
